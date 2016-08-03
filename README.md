@@ -1,5 +1,4 @@
 # hello-world
-Just Another HW
 
 I grew up in a small town in Kansas;
 My graduating class had a size of 86;
